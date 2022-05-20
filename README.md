@@ -40,6 +40,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [validator](https://github.com/go-playground/validator) - 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - vscode
   * [TabNine](https://github.com/codota/TabNine) - AI Code Completions
+  * [vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - Web
   * [cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
   * [chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
