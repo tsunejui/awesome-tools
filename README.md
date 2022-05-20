@@ -38,6 +38,8 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
   * [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
   * [validator](https://github.com/go-playground/validator) - 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+- vscode
+  * [TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - Web
   * [cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
   * [chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
