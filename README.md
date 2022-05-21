@@ -141,3 +141,4 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 ### Finder
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another 🐊 📦
 - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
+- [server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
