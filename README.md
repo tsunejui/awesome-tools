@@ -163,10 +163,11 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [rocky](https://github.com/rocky-linux/rocky) - Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.
 - [talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 
-### GIT
-- [cli](https://github.com/cli/cli) - GitHub’s official command line tool
+### Nice apps
+- [tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
-### CLI Tool
+### Nice CLI Tools
+- [cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 
 ### Finder
