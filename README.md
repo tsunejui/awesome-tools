@@ -142,6 +142,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 
 ### Integration
+- [awx](https://github.com/ansible/awx) - AWX Project
 - [lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 
