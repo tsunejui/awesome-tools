@@ -107,6 +107,9 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - System
   * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
+  * [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
+- Web
+  * [mip22](https://github.com/makdosx/mip22) - 💻 📱 mip22 is a advanced phishing tool
 
 ### Network
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
