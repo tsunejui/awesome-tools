@@ -2,6 +2,7 @@
 Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated list of tools and libraries I found
 
 ### Exercises
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) - Practical concurrency guide in Go, communication by channels, patterns
 - [awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
@@ -41,6 +42,8 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - vscode
   * [TabNine](https://github.com/codota/TabNine) - AI Code Completions
   * [vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
+- HTTP
+  * [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - Web
   * [cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
   * [chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
@@ -53,6 +56,8 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - Arduino
   * [tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
+- UML
+  * [diagrams](https://github.com/mingrammer/diagrams) - 🎨 Diagram as Code for prototyping cloud system architectures
 
 ### Deployment
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
@@ -63,6 +68,9 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - CICD
   * [Tekton Pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
   * [earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
+  * [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+- Cloud
+  * [localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - Service Mesh
   * [linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - Container
@@ -105,12 +113,15 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
   * [Karkinos](https://github.com/helich0pper/Karkinos) - Penetration Testing and Hacking CTF's Swiss Army Knife with: Reverse Shell Handling - Encoding/Decoding - Encryption/Decryption - Cracking Hashes / Hashing
   * [tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
+  * [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool) - RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data
 - System
   * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
   * [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
   * [GTFOBins](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - Web
   * [mip22](https://github.com/makdosx/mip22) - 💻 📱 mip22 is a advanced phishing tool
+- Database
+  * [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 
 ### Network
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -129,7 +140,6 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
   * [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
   * [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
-  * [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool) - RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data
 
 ### Integration
 - [lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
@@ -145,8 +155,11 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [cassandra](https://github.com/apache/cassandra) - Mirror of Apache Cassandra
 - [hbase](https://github.com/apache/hbase) - Apache HBase
 
-### Git
+### GIT
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
+
+### CLI Tool
+- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 
 ### Finder
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another 🐊 📦
