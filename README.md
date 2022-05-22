@@ -135,8 +135,13 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 
 ### Database
 - [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+- [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
+- [couchdb](https://github.com/apache/couchdb) - Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability
+- [leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
+- [cassandra](https://github.com/apache/cassandra) - Mirror of Apache Cassandra
+- [hbase](https://github.com/apache/hbase) - Apache HBase
 
 ### Git
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
