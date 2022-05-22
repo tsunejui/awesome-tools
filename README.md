@@ -108,6 +108,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - System
   * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
   * [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
+  * [GTFOBins](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - Web
   * [mip22](https://github.com/makdosx/mip22) - 💻 📱 mip22 is a advanced phishing tool
 
