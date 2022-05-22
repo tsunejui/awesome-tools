@@ -129,6 +129,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
   * [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
   * [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
+  * [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool) - RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data
 
 ### Integration
 - [lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
