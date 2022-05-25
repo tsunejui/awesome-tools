@@ -98,6 +98,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
   * [kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
   * [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
+  * [mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
 
 ### Security
 - Container
