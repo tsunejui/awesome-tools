@@ -71,6 +71,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - Ingress
   * [kourier](https://github.com/knative-sandbox/net-kourier) - Kourier is an Ingress for Knative Serving. Kourier is a lightweight alternative for the Istio ingress as its deployment consists only of an Envoy proxy and a control plane for it.
   * [contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
+  * [skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
 - Faas
   * [knative](https://github.com/knative/docs) - Knative is an Open-Source Enterprise-level solution to build Serverless and Event Driven Applications
 - Event Streaming
