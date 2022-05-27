@@ -73,6 +73,8 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - Faas
   * [knative](https://github.com/knative/docs) - Knative is an Open-Source Enterprise-level solution to build Serverless and Event Driven Applications
+- Event Streaming
+  * [kafka](https://github.com/apache/kafka) - Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
 - CICD
   * [Tekton Pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
   * [earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
