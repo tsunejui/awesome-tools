@@ -153,6 +153,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
   * [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
   * [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
+  * [ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 
 ### Integration
 - [awx](https://github.com/ansible/awx) - AWX Project
