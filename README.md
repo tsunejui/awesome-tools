@@ -146,6 +146,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
   * [trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
   * [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
+  * [sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
   * [teleport](https://github.com/gravitational/teleport)Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
 - Test
   * [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
