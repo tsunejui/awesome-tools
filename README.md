@@ -167,6 +167,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [cassandra](https://github.com/apache/cassandra) - Mirror of Apache Cassandra
 - [hbase](https://github.com/apache/hbase) - Apache HBase
+- [zinc](https://github.com/zinclabs/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 
 ### Linux
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
