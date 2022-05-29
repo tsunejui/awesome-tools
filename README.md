@@ -175,6 +175,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [zinc](https://github.com/zinclabs/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+- [rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 
 ### Linux
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
