@@ -141,6 +141,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - Proxy
   * [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
   * [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
+  * [haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
 - Web
   * [keto](https://github.com/ory/keto#whos-using-it) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
   * [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
