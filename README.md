@@ -80,6 +80,8 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [Tekton Pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
   * [earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
   * [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+- Data Flow
+  * [rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - Cloud
   * [localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - Service Mesh
