@@ -101,7 +101,8 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
   * [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
   * [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-- UI Tool
+- Testing/Validation Tools
+  * [goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
   * [gatus](https://github.com/TwiN/gatus) - Gatus - Automated service health dashboard
   * [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
   * [k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
