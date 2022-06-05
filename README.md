@@ -198,3 +198,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another 🐊 📦
 - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 - [server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
+
+### Blog
+- [jekyll](https://github.com/jekyll/jekyll) - 🌐 Jekyll is a blog-aware static site generator in Ruby
+- [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
