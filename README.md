@@ -12,6 +12,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material
+- [ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 
 ### Framework
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -143,6 +144,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 ### Network
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
+- [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - Proxy
   * [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
   * [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
