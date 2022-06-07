@@ -63,7 +63,8 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - UML
   * [diagrams](https://github.com/mingrammer/diagrams) - 🎨 Diagram as Code for prototyping cloud system architectures
   * [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-
+- Test
+  * [xk6-browser](https://github.com/grafana/xk6-browser) - k6 extension that adds support for browser automation and end-to-end web testing via the Chrome Devtools Protocol
 ### Deployment
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
