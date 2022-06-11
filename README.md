@@ -92,6 +92,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - Container
   * [harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
   * [podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+  * [lxc](https://github.com/lxc/lxc) - LXC - Linux Containers
 - kubectl Plugins
   * [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 
