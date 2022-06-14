@@ -42,6 +42,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
   * [validator](https://github.com/go-playground/validator) - 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
   * [rtp](https://github.com/pion/rtp) - A Go implementation of RTP
+  * [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - vscode
   * [TabNine](https://github.com/codota/TabNine) - AI Code Completions
   * [vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
