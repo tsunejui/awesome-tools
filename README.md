@@ -3,6 +3,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 
 ### Exercises
 - [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
+- [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
