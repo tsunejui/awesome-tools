@@ -17,6 +17,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [clean-code-php](https://github.com/jupeter/clean-code-php) - 🛁 Clean Code concepts adapted for PHP
+- [go-collection](https://github.com/jiujuan/go-collection) - 🌷 awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习golang基础和高级特性，到实战，到架构微服务，最后到跑路。
 ### Framework
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
