@@ -20,6 +20,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [clean-code-php](https://github.com/jupeter/clean-code-php) - 🛁 Clean Code concepts adapted for PHP
 - [go-collection](https://github.com/jiujuan/go-collection) - 🌷 awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习golang基础和高级特性，到实战，到架构微服务，最后到跑路。
+
 ### Framework
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
@@ -193,6 +194,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
+- [tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
 
 ### Linux
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
