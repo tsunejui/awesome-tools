@@ -39,6 +39,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
   * [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
   * [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
+  * [hashmap](https://github.com/cornelk/hashmap) - A Golang lock-free thread-safe HashMap optimized for fastest read access.
   * [excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
   * [golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
   * [goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
