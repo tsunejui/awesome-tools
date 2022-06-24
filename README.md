@@ -105,7 +105,8 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [lxc](https://github.com/lxc/lxc) - LXC - Linux Containers
 - kubectl Plugins
   * [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
-
+- ODF
+  * [minio](https://github.com/minio) - Multi-Cloud ☁️ Object Storage
 ### Monitoring
 - Logs
   * [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
