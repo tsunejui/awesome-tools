@@ -88,6 +88,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
 - Faas
   * [knative](https://github.com/knative/docs) - Knative is an Open-Source Enterprise-level solution to build Serverless and Event Driven Applications
+  * [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - Event Streaming
   * [kafka](https://github.com/apache/kafka) - Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
 - CICD
