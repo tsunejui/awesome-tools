@@ -21,6 +21,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [clean-code-php](https://github.com/jupeter/clean-code-php) - 🛁 Clean Code concepts adapted for PHP
 - [go-collection](https://github.com/jiujuan/go-collection) - 🌷 awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习golang基础和高级特性，到实战，到架构微服务，最后到跑路。
 - [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
+- [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中文翻译版本
 
 ### Framework
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
