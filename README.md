@@ -52,6 +52,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [validator](https://github.com/go-playground/validator) - 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
   * [rtp](https://github.com/pion/rtp) - A Go implementation of RTP
   * [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
+  * [athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - vscode
   * [TabNine](https://github.com/codota/TabNine) - AI Code Completions
   * [vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
