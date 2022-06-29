@@ -53,6 +53,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [rtp](https://github.com/pion/rtp) - A Go implementation of RTP
   * [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
   * [athens](https://github.com/gomods/athens) - A Go module datastore and proxy
+  * [mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications
 - vscode
   * [TabNine](https://github.com/codota/TabNine) - AI Code Completions
   * [vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
