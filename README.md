@@ -227,3 +227,6 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 ### Blog
 - [jekyll](https://github.com/jekyll/jekyll) - 🌐 Jekyll is a blog-aware static site generator in Ruby
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
+
+### Toys
+- [MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
