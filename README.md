@@ -98,6 +98,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - Event Streaming
   * [kafka](https://github.com/apache/kafka) - Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
+  * [libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C++, implements ZMTP/3.1
 - CICD
   * [Tekton Pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
   * [earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
