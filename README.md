@@ -61,6 +61,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - vscode
   * [TabNine](https://github.com/codota/TabNine) - AI Code Completions
   * [vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
+  * [writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - Network
   * [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
   * [websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
