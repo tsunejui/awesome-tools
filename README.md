@@ -27,6 +27,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中文翻译版本
 - [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
 - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
+- [Dynamic Kubernetes Cluster Scaling at Airbnb](https://medium.com/airbnb-engineering/dynamic-kubernetes-cluster-scaling-at-airbnb-d79ae3afa132)
 ### Framework
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
