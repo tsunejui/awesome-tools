@@ -91,6 +91,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
+- [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
 - VPN
   * [firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
 - Ingress
