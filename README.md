@@ -115,6 +115,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - Service Mesh
   * [linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - Container
+  * [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
   * [harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
   * [podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
   * [tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
