@@ -234,6 +234,9 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 ### CLI
 - [dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 
+### Access Management
+- [keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
+
 ### Blog
 - [jekyll](https://github.com/jekyll/jekyll) - 🌐 Jekyll is a blog-aware static site generator in Ruby
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
