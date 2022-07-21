@@ -214,6 +214,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 - [tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
 - [yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
+- [KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 
 ### Linux
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
