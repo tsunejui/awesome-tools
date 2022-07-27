@@ -255,6 +255,9 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 ### Mail Server
 - [iRedMail](https://github.com/iredmail/iRedMail) - Free, Open Source Mail Server Solution
 
+### Chaos Engine
+- [litmus](https://github.com/litmuschaos/litmus) - Litmus helps SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q
+
 ### Other tools
 - [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox. java_icon
