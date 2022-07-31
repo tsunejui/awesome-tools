@@ -192,6 +192,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
   * [teleport](https://github.com/gravitational/teleport)Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
 - Test
+  * [playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
   * [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
   * [k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
   * [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
