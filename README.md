@@ -40,6 +40,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [Linux Memory: Buffer vs Cache](https://medium.com/geekculture/linux-memory-buffer-vs-cache-44d8a187f310) - Do you really understand the differences between buffer and cache?
+- [ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 
 ### Development
 - Golang
