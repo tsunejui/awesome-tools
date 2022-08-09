@@ -94,6 +94,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [xk6-browser](https://github.com/grafana/xk6-browser) - k6 extension that adds support for browser automation and end-to-end web testing via the Chrome Devtools Protocol
 ### Deployment
 - [keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+- [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
