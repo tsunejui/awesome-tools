@@ -159,6 +159,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - Container
   * [clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - Network
+  * [hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
   * [zaporxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project
   * [SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
   * [jfscan](https://github.com/nullt3r/jfscan) - JF⚡can - Super fast port scanning & service discovery using Masscan and Nmap. Scan large networks with Masscan and use Nmap's scripting abilities to discover information about services. Generate report.
