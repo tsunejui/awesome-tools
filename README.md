@@ -2,6 +2,7 @@
 Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated list of tools and libraries I found
 
 ### Exercises
+- [InterviewThis](https://github.com/Twipped/InterviewThis) - An open source list of developer questions to ask prospective employers
 - [xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources 🚢🎉
