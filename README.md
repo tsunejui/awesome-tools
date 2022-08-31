@@ -163,6 +163,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 
 ### Security
 - Container
+  * [trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
   * [clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - Network
   * [hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
