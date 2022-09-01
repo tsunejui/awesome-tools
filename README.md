@@ -2,6 +2,7 @@
 Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated list of tools and libraries I found
 
 ### Exercises
+- [100-go-mistakes](https://github.com/teivah/100-go-mistakes) - Source code and community space of 📖 100 Go Mistakes
 - [clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
 - [postmortem-best-practices](https://blog.pragmaticengineer.com/postmortem-best-practices) - Incident Review and Postmortem Best Practices
 - [system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
