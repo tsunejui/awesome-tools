@@ -54,6 +54,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - Golang
+  * [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
   * [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
   * [gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
   * [jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go
