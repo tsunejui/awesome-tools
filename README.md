@@ -114,6 +114,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
 - VPN
+  * [easy-rsa](https://github.com/OpenVPN/easy-rsa) - easy-rsa - Simple shell based CA utility
   * [firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
 - Ingress
   * [kourier](https://github.com/knative-sandbox/net-kourier) - Kourier is an Ingress for Knative Serving. Kourier is a lightweight alternative for the Istio ingress as its deployment consists only of an Envoy proxy and a control plane for it.
