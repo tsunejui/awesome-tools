@@ -56,6 +56,8 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 ### Development
 - [metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
+- Javascript
+  * [intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - Golang
   * [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
   * [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
