@@ -59,6 +59,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - Javascript
   * [intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
   * [swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
+  * [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - Golang
   * [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
   * [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
