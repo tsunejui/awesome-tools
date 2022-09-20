@@ -153,6 +153,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - ODF
   * [minio](https://github.com/minio) - Multi-Cloud ☁️ Object Storage
 ### Monitoring
+- [coroot](https://github.com/coroot/coroot) - A monitoring and troubleshooting tool for microservice architectures.
 - Logs
   * [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
   * [beats](https://github.com/elastic/beats) - 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
