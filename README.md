@@ -62,6 +62,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
   * [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - Golang
+  * [tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
   * [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
   * [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
   * [gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
