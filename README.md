@@ -260,6 +260,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [rocky](https://github.com/rocky-linux/rocky) - Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.
 - [talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
+- [cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 
 ### Nice apps
 - [tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
