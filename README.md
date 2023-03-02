@@ -303,6 +303,9 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 ### Chaos Engine
 - [litmus](https://github.com/litmuschaos/litmus) - Litmus helps SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q
 
+### Awesome
+- [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
+
 ### Other tools
 - [dotfiles](https://github.com/mathiasbynens/dotfiles) - 🔧 .files, including ~/.macos — sensible hacker defaults for macOS
 - [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
