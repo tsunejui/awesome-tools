@@ -63,6 +63,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - Javascript
+  * [material-react-table](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
   * [intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
   * [swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
   * [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
