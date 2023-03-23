@@ -3,7 +3,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 
 
 ### Awesome
-- [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
+- [Awesome](https://github.com/Awesome-Windows/Awesome) - 💻 🎉 An awesome & curated list of best applications and tools for Windows.
 - [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources 🚢🎉
@@ -11,6 +11,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
+- [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 
 ### Exercises
