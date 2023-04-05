@@ -153,6 +153,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [kafka](https://github.com/apache/kafka) - Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
   * [libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C++, implements ZMTP/3.1
 - CICD
+  * [renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
   * [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
   * [Tekton Pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
   * [earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
