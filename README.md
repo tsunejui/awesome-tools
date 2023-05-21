@@ -18,6 +18,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 
 ### Exercises
+- [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [google-interview-preparation-problems](https://github.com/mgechev/google-interview-preparation-problems) - leetcode problems I solved to prepare for my Google interview.
 - [cka-preparation-guide](https://github.com/leandrocostam/cka-preparation-guide) - Certified Kubernetes Administrator (CKA) Preparation Guide - Curriculum v1.24
