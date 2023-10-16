@@ -237,6 +237,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - Proxy
+  * [toxiproxy](https://github.com/Shopify/toxiproxy) - ⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing
   * [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
   * [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
   * [haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
