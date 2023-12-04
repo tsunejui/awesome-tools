@@ -288,6 +288,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
+- [remirepo](https://github.com/remicollet/remirepo) - Remi's RPM repository
 
 ### Nice apps
 - [tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
