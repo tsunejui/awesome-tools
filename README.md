@@ -202,6 +202,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
 
 ### Security
+- [clamav](https://github.com/Cisco-Talos/clamav) - ClamAV - Documentation is here: https://docs.clamav.net
 - [VAmPI](https://github.com/erev0s/VAmPI) - Vulnerable REST API with OWASP top 10 vulnerabilities for security testing
 - Container
   * [trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
