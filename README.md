@@ -299,6 +299,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
 ### Nice CLI Tools
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [kafkactl](https://github.com/deviceinsight/kafkactl) - Command Line Tool for managing Apache Kafka
