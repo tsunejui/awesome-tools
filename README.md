@@ -3,6 +3,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 
 
 ### Awesome
+- [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions?tab=readme-ov-file) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
 - [Awesome](https://github.com/Awesome-Windows/Awesome) - 💻 🎉 An awesome & curated list of best applications and tools for Windows.
 - [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
