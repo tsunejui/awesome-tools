@@ -139,6 +139,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [xk6-browser](https://github.com/grafana/xk6-browser) - k6 extension that adds support for browser automation and end-to-end web testing via the Chrome Devtools Protocol
 
 ### Deployment
+- [modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes
 - [kured](https://github.com/kubereboot/kured) - Kubernetes Reboot Daemon
 - [keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
