@@ -80,6 +80,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 ### Development
 - [metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
+- [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - Javascript
   * [material-react-table](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
   * [intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
