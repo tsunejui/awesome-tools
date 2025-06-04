@@ -353,3 +353,4 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [dotfiles](https://github.com/mathiasbynens/dotfiles) - 🔧 .files, including ~/.macos — sensible hacker defaults for macOS
 - [cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox. java_icon
 - [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
+- [WTCraft.com](https://wtcraft.com) - WTCraft.com is a curated directory focused on tech tools, developer resources, and SaaS alternatives.
