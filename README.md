@@ -124,6 +124,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
   * [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
   * [cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
+  * [EthGasOptimizer (EGO)](https://ethgasoptimizer.com) - Ethereum gas optimization tool for traders and developers. Tracks live gas prices, predicts cheaper windows, and automates transaction timing using meta-transaction flows (EIP-2771).
 - Kubernetes
   * [kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
   * [Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
