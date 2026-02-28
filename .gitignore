@@ -1,0 +1,13 @@
+.DS_Store
+*.log
+.env
+
+node_modules/
+package-lock.json
+.next/
+prisma/*.db
+prisma/*.db-journal
+.pid
+.dev.log
+tsconfig.tsbuildinfo
+backups/
