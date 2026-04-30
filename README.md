@@ -1,5 +1,6 @@
 # Awesome Tools
 Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated list of tools and libraries I found
+- [JSON Schema Generator Pro](https://sargam79.github.io/Tool/json-schema-generator-pro.html) - Free online tool to generate and validate JSON schema instantly.
 
 
 ### Awesome
