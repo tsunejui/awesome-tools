@@ -193,6 +193,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 
 ### Monitoring
 - [coroot](https://github.com/coroot/coroot) - A monitoring and troubleshooting tool for microservice architectures.
+- [Middleware](https://github.com/middleware-labs/) - monitor log, metrics and traces in a unified platform 
 - Logs
   * [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
   * [beats](https://github.com/elastic/beats) - 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
