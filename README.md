@@ -354,3 +354,6 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
 - [dotfiles](https://github.com/mathiasbynens/dotfiles) - 🔧 .files, including ~/.macos — sensible hacker defaults for macOS
 - [cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox. java_icon
 - [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
+- [Mac PPI Calculator & Retina Checker](https://retinadesk.com/tools/ppi-calculator/) - Calculate a monitor's pixel density and whether it renders Retina-sharp on macOS, with a HiDPI scaling preview.
+- [Mac Cable Bandwidth Calculator](https://retinadesk.com/tools/cable-bandwidth-calculator/) - Check whether a USB-C, HDMI, DisplayPort, or Thunderbolt cable can drive 4K120, 5K60, or 6K on a Mac.
+- [Mac External Display Support](https://retinadesk.com/tools/external-display-support/) - Reference for external display counts, resolutions, and refresh rates on each Apple Silicon Mac.
