@@ -206,6 +206,7 @@ Refer to [awesome](https://github.com/sindresorhus/awesome#readme), a curated li
   * [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
   * [goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
   * [gatus](https://github.com/TwiN/gatus) - Gatus - Automated service health dashboard
+  * [SiteWatcher](https://github.com/NikKurkov/sitewatcher) - Self-hosted website checks with response-time history, TLS and domain expiry alerts, and public status pages.
   * [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
   * [k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
   * [filebrowser](https://github.com/filebrowser/filebrowser) - Web File Browser
